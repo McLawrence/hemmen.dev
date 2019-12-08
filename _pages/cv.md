@@ -9,51 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
+
+[comment]: # (TODO: points after lines?)
+
+[comment]: # (TODO: Nicer formatting for work --> years, first thing bold)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc., Physics, Georg-August University of Göttingen, Göttingen, 2018 <br>
+Final grade 1.2, among top 4%
+
+* M.S., Physics, Georg-August University of Göttingen, Göttingen, 2020 (expected) <br>
+Average grade 1.0, among top 3%
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2019 - Present: Master's Thesis, Eberhard Karls University of Tübingen, Tübingen
+  * Thesis advisor: Prof. Matthias Hein
+  * Ongoing research on robustness of neural networks by analyzing their preimages
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Aug - Sep 2018: Research Intern: Natural Language Processing
+  * National Chung Cheng University, Chiayi, Taiwan
+  * Comparing the benefits of different hand-crafted features for multiple architecture choices on the task of question answering using TensorFlow
+
+* Aug - Sep 2017: Intern: Computer Vision
+  * Indian Institute of Technology, Gandhinagar, India
+  * Transferring motion of simple objects with Generative Adversarial Networks using PyTorch
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages:
+  * Python
+  * C/C++
+* PyTorch, Keras
+* Mathematica
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* TA: Mathematical Methods in Physics
+* TA: Experimental Physics 2 - Electricity and Magnetism
+* TA: Experimental Physics 1 - Mechanics
+
+Scholarships
 ======
-* Currently signed in to 43 different slack teams
+
+* 2017, 2018: Research Internships in Science and Engineering Worldwide <br>
+Research scholarship awarded by the German Academic Exchange Service (DAAD)
+
+* 2012: Barnim-Stipendium <br>
+Scholarship for extraordinary scholastic achievements in mathematics and science
+  
