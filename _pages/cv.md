@@ -18,6 +18,7 @@ Education
 ======
 * B.Sc., Physics, Georg-August University of Göttingen, Göttingen, 2018 <br>
 Final grade 1.2, among top 4%
+  * Bachelor thesis: Learning Features by Predicting Camera Transformations between Image Pairs
 
 * M.S., Physics, Georg-August University of Göttingen, Göttingen, 2020 (expected) <br>
 Average grade 1.0, among top 3%
